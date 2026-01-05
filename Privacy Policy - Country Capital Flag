@@ -1,0 +1,28 @@
+Privacy Policy - Country Capital Flag
+Last Updated: December 2025
+1. Introduction
+We take your privacy seriously. This policy explains how "Country Capital Flag" collects, uses, and protects your information when you use our mobile application.
+2. Information We Collect
+We collect only the information necessary to provide and improve the game experience:
+Personal Information: When you sign in with Google, we receive your Name and Email Address. This is used to create your game account and identify you on the global leaderboards.
+Usage Data: We collect game-related data such as high scores, XP, achievements, and player level to sync your progress across devices via Google Firebase.
+Device Information: We may collect non-personal data such as device model and OS version for technical troubleshooting.
+3. Third-Party Services
+Our app uses industry-standard services provided by Google:
+Google Play Services / Firebase: For user authentication, cloud database, and analytics.
+Google AdMob: To display advertisements. AdMob may use advertising identifiers to serve personalized ads. You can opt-out of personalized ads in your Android device settings.
+4. Data Security and Encryption
+Your data is handled with the highest security standards:
+All data is encrypted in transit using HTTPS/TLS protocols.
+User data is stored on encrypted servers managed by Google Firebase.
+
+5. Data Deletion Policy (Account Deletion)
+We respect your right to be forgotten. Users can request the deletion of their account and all associated data (email, name, scores, and progress) at any time.
+In-App: Go to Settings > Delete Account. This will instantly remove your data from our servers.
+How to request deletion: Send an email to compass294@gmail.com with the subject "Delete My Account".
+Process: Upon receiving your request, we will delete all your personal information and game records from our Firebase database within 7 business days.
+6. Children's Privacy
+Our app is designed for a general audience. We do not knowingly collect personal information from children under the age of 13. If you are a parent and believe your child has provided us with personal data, please contact us for immediate removal.
+7. Contact Us
+For any questions regarding this policy, please contact:
+Email: compass294@gmail.com
